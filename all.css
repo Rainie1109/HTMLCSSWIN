@@ -226,8 +226,8 @@ h1{
 
 }
 .contact-title h2{
-   
    font-size: 64px;
+
 }
 .contact-title img{
     width: 100px;
@@ -267,15 +267,13 @@ h1{
    
   }
   .container-project h2{
-    max-width: 764px;
+    line-height: 96px;
     color: #000;
     font-size: 64px;
-    line-height: 96px;
     margin-top: 160px;
-    margin-left: 862px;
     margin-bottom: 16px;
-    
-    
+    text-align: right;
+    padding-right: 312px;
   }  
   .project-pic{
     display: flex;
